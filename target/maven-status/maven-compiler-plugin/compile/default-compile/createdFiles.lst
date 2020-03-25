@@ -1,0 +1,17 @@
+WebTest\PaymentPage.class
+WebTest\BrowserSelector.class
+WebTest\BasePage.class
+WebTest\Homepage.class
+WebTest\RegistrationPage.class
+WebTest\ReferFriendNonRegisterUser.class
+WebTest\ChangeCurrency.class
+WebTest\GuestUserCheckOut.class
+WebTest\RegistrationResultPage.class
+WebTest\LogIn.class
+WebTest\CompareTwoProducts.class
+WebTest\AddToCartButtonPresent.class
+WebTest\SortPriceHighToLow.class
+WebTest\LoadProp.class
+WebTest\ReferFriendRegisterUser.class
+WebTest\GuestUserComments.class
+WebTest\Utils.class

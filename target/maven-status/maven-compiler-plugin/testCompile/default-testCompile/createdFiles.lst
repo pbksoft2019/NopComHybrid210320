@@ -1,0 +1,3 @@
+WebTest\Hooks.class
+WebTest\RunTest.class
+WebTest\MyStepDefs.class
