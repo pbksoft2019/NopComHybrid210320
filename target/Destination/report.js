@@ -65,7 +65,7 @@ formatter.match({
   "location": "WebTest.MyStepDefs.welcome_message_should_display()"
 });
 formatter.result({
-  "error_message": "java.lang.AssertionError: Your registration completed expected [Your registration completed] but found [Registration not successful...]\r\n\tat org.testng.Assert.fail(Assert.java:97)\r\n\tat org.testng.Assert.assertEqualsImpl(Assert.java:136)\r\n\tat org.testng.Assert.assertEquals(Assert.java:118)\r\n\tat org.testng.Assert.assertEquals(Assert.java:575)\r\n\tat WebTest.Utils.assertTextMessage(Utils.java:43)\r\n\tat WebTest.RegistrationResultPage.verifyUserSeeRegistrationSuccessMessage(RegistrationResultPage.java:16)\r\n\tat WebTest.MyStepDefs.welcome_message_should_display(MyStepDefs.java:48)\r\n\tat ✽.welcome message should display(file:///C:/Users/Prakash/IdeaProjects/NopComHybrid/./src/test/Resources/features/register.feature:8)\r\n",
+  "error_message": "java.lang.AssertionError: Your registration completed expected [Your registration completed] but found [Registration not successful...]\r\n\tat org.testng.Assert.fail(Assert.java:97)\r\n\tat org.testng.Assert.assertEqualsImpl(Assert.java:136)\r\n\tat org.testng.Assert.assertEquals(Assert.java:118)\r\n\tat org.testng.Assert.assertEquals(Assert.java:575)\r\n\tat WebTest.Utils.assertTextMessage(Utils.java:45)\r\n\tat WebTest.RegistrationResultPage.verifyUserSeeRegistrationSuccessMessage(RegistrationResultPage.java:16)\r\n\tat WebTest.MyStepDefs.welcome_message_should_display(MyStepDefs.java:48)\r\n\tat ✽.welcome message should display(file:///C:/Users/Prakash/IdeaProjects/NopComHybrid/./src/test/Resources/features/register.feature:8)\r\n",
   "status": "failed"
 });
 formatter.write("!!!!!!!Scenario Failed....!!!!!! Please see attached screenshot for the error/issue");

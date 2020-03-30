@@ -3,7 +3,7 @@ package WebTest;
 import org.openqa.selenium.By;
 
 public class CompareTwoProducts extends Utils
-{
+{   // locators for required elements
     private By _category = By.linkText( "Books" );
     private By _fahrenheit451 = By.xpath( "//input[@onclick='return AjaxCart.addproducttocomparelist(\"/compareproducts/add/37\"),!1']" );
     private By _firstprizepies = By.xpath( "//input[@onclick='return AjaxCart.addproducttocomparelist(\"/compareproducts/add/38\"),!1']" );

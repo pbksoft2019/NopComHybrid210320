@@ -81,9 +81,10 @@ public class BrowserSelector extends Utils
         }             // if Sauce lab is false
 
         else {
+            System.out.println("Running in **Local** machine with ** "+ browser+" ** browser");
             // properties and path for chrome browser
             if (browser.equalsIgnoreCase( "chrome" )) {
-                System.out.println("Running in **Local** machine with ** "+ browser+" ** browser");
+
                 System.setProperty( "webdriver.chrome.driver", "src/test/Resources/BrowserDriver/chromedriver.exe" );
                 driver = new ChromeDriver();
             }

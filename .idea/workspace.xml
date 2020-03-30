@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f107ecb-3f46-48a1-ab28-ac88c57d893a" name="Default Changelist" comment="" />
+    <list default="true" id="9f107ecb-3f46-48a1-ab28-ac88c57d893a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WebTest/AddToCartButtonPresent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebTest/AddToCartButtonPresent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WebTest/BrowserSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebTest/BrowserSelector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WebTest/ChangeCurrency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebTest/ChangeCurrency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WebTest/CompareTwoProducts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebTest/CompareTwoProducts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WebTest/GuestUserCheckOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebTest/GuestUserCheckOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Destination/embedded0.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/Destination/embedded0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Destination/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/Destination/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WebTest/AddToCartButtonPresent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WebTest/AddToCartButtonPresent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WebTest/BrowserSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WebTest/BrowserSelector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WebTest/ChangeCurrency.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WebTest/ChangeCurrency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WebTest/GuestUserCheckOut.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WebTest/GuestUserCheckOut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WebTest/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WebTest/Utils.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +29,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +40,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZckcvZaudLE2RKSyZZx7Nnjtlq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +48,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/Resources/BrowserDriver" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
@@ -110,30 +130,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585152022496">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585426606813">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585152022496" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585426606813" />
     <state x="414" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585160096309">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="414" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585160096309" />
-    <state width="1323" height="279" key="GridCell.Tab.0.bottom" timestamp="1585166991925">
+    <state width="705" height="70" key="GridCell.Tab.0.bottom" timestamp="1585431455489">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="279" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585166991925" />
-    <state width="1323" height="279" key="GridCell.Tab.0.center" timestamp="1585166991925">
+    <state width="705" height="70" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585431455489" />
+    <state width="705" height="70" key="GridCell.Tab.0.center" timestamp="1585431455489">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="279" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585166991925" />
-    <state width="1323" height="279" key="GridCell.Tab.0.left" timestamp="1585166991925">
+    <state width="705" height="70" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585431455489" />
+    <state width="705" height="70" key="GridCell.Tab.0.left" timestamp="1585431455489">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="279" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585166991925" />
-    <state width="1323" height="279" key="GridCell.Tab.0.right" timestamp="1585166991925">
+    <state width="705" height="70" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585431455489" />
+    <state width="705" height="70" key="GridCell.Tab.0.right" timestamp="1585431455489">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="279" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585166991925" />
+    <state width="705" height="70" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585431455489" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1585151476491">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -154,5 +174,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1585149231233" />
+    <state x="514" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1585422824750">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="514" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.800.560@0.0.1366.728" timestamp="1585386675472" />
+    <state x="514" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585422824750" />
+    <state x="65" y="71" key="new project wizard" timestamp="1585427932620">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="71" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1585427932620" />
   </component>
 </project>
